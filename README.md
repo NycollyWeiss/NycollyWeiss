@@ -21,8 +21,6 @@
 ###
 
 ### Hey!
-
-👾 I'm a full-stack software developer.
 <h4 align="center">👩‍💻 About Me</h4>
 
 ```Java
