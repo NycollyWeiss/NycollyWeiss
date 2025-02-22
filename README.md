@@ -1,27 +1,18 @@
-<div align="center">
-  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pgxwYJcrj6fKZmowAdX5HbdvaHWItqxLpSim41_sgC4"  />
-</div>
-<div align="center">
+
+<div align="right">
   <a href="https://www.linkedin.com/in/nycollyweiss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"  />
   </a>
   <a href="nycollyweissoliveira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="50" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="50" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="discord logo"  />
 </div>
 
-###
+<hr>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NycollyWeiss.NycollyWeiss&left_color=mediumpurple&right_color=snow"  />
-</div>
-
-###
-
-### Hey!
-<h4 align="center">👩‍💻 About Me</h4>
+### 📘 How I'd Define Me... Literally
 
 ```Java
 public class Developer extends Person{
@@ -53,15 +44,11 @@ this.reading = new String[] {"It a coisa"};
 	
 }
 ```
-<img align="right" height="165" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhkbWhyNDM0eDY4N2prbnZxcGNyZ3Y0c3Q3M3pibHFvcDB0ZWU1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1M7drqJHpCENqKN5JK/giphy.gif"  />
+<hr>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### <h2 align="left"> 🛠 Language and tools</h2>
 <div align="left">
+	
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
@@ -81,23 +68,17 @@ this.reading = new String[] {"It a coisa"};
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
-
-###
-
+	<div align="right">
+<img align="right" height="165" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhkbWhyNDM0eDY4N2prbnZxcGNyZ3Y0c3Q3M3pibHFvcDB0ZWU1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1M7drqJHpCENqKN5JK/giphy.gif"  />
 <br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NycollyWeiss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NycollyWeiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="140" alt="languages graph"  />
 </div>
+</div>
+ <hr>
 
-###
-
-###
-
-
-###
 
 <br clear="both">
 
