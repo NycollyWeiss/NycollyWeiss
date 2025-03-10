@@ -54,9 +54,18 @@ public class Developer extends Person{
 
 ```
 
+<hr> 
+
+ ## 🚀 Projetos
+
+  <a href="https://github.com/nycollyweiss/blogpessoal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nycollyweiss&repo=blogpessoal&theme=shades-of-purple" />
+  </a>
+</p>
+
 <hr>
 
-### <h2 align="left"> 📞 Contact me </h2>
+### <h2 align="left"> 📞 Contato </h2>
 
 <div align="left">
  <a href="https://www.linkedin.com/in/nycollyweiss/" target="_blank">
@@ -189,6 +198,13 @@ public class Developer extends Person{
 }
 
 ```
+## 🚀 Projects
+
+  <a href="https://github.com/nycollyweiss/blogpessoal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nycollyweiss&repo=blogpessoal&theme=shades-of-purple" />
+  </a>
+</p>
+
 
 ### <h2 align="left"> 📞 Contact me </h2>
 
