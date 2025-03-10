@@ -58,10 +58,39 @@ public class Developer extends Person{
 
  ## 🚀 Projetos
 
-  <a href="https://github.com/nycollyweiss/blogpessoal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nycollyweiss&repo=blogpessoal&theme=shades-of-purple" />
-  </a>
-</p>
+<a href="https://github.com/NycollyWeiss/ContaBancaria">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=contaBancaria&theme=shades-of-purple" 
+         alt="Projeto Conta Bancária" />
+  </picture>
+</a>
+
+
+<a href="https://github.com/NycollyWeiss/BlogPessoal">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=BlogPessoal&theme=shades-of-purple" 
+         alt="Projeto Blog Pessoal" />
+  </picture>
+</a>
+
+<a href="https://github.com/NycollyWeiss/KarmaAirsoftShop">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=KarmaAirsoftShop&theme=shades-of-purple" 
+         alt="Projeto E-commerce Karma Airsoft Shop" />
+  </picture>
+</a>
+
+<a href="https://github.com/NycollyWeiss/Projeto-RH">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=Projeto-RH&theme=shades-of-purple" 
+         alt="Projeto RH" />
+  </picture>
+</a>
+
 
 <hr>
 
@@ -200,10 +229,38 @@ public class Developer extends Person{
 ```
 ## 🚀 Projects
 
-  <a href="https://github.com/nycollyweiss/blogpessoal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nycollyweiss&repo=blogpessoal&theme=shades-of-purple" />
-  </a>
-</p>
+ <a href="https://github.com/NycollyWeiss/ContaBancaria">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=contaBancaria&theme=shades-of-purple" 
+         alt="Projeto Conta Bancária" />
+  </picture>
+</a>
+
+
+<a href="https://github.com/NycollyWeiss/BlogPessoal">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=BlogPessoal&theme=shades-of-purple" 
+         alt="Projeto Blog Pessoal" />
+  </picture>
+</a>
+
+<a href="https://github.com/NycollyWeiss/KarmaAirsoftShop">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=KarmaAirsoftShop&theme=shades-of-purple" 
+         alt="Projeto E-commerce Karma Airsoft Shop" />
+  </picture>
+</a>
+
+<a href="https://github.com/NycollyWeiss/Projeto-RH">
+  <picture>
+    <img width="25%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NycollyWeiss&repo=Projeto-RH&theme=shades-of-purple" 
+         alt="Projeto RH" />
+  </picture>
+</a>
 
 
 ### <h2 align="left"> 📞 Contact me </h2>
